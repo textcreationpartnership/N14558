@@ -117,12 +117,14 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:018456_0001_0FA76CFC013DB020" rendition="simple:additions"/>
+            <pb facs="unknown:018456_0001_0FA76CFC013DB020"
+                rendition="simple:additions"/>
             <p>THE MEDICAL POCKET-BOOK; FOR THOSE WHO ARE, AND FOR ALL WHO WISH, TO BE, PHYSCIANS.</p>
             <p>PRICE ONE DOLLAR.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:018456_0002_0FA76D064166B808" rendition="simple:additions"/>
+            <pb facs="unknown:018456_0002_0FA76D064166B808"
+                rendition="simple:additions"/>
             <p>THE MEDICAL POCKET-BOOK; FOR THOSE WHO ARE, AND FOR ALL WHO WISH, TO BE, PHYSICIANS.</p>
             <p>Containing a ſhort but plain ACCOUNT of the SYMPTOMS, CAUSES, and METHODS of CURE, of the DISEASES incident to the HUMAN BODY:</p>
             <p>Including ſuch as require SURGICAL TREATMENT: Together with the VIRTUES, and DOSES, of MEDICINAL COMPOSITIONS, and SIMPLES.</p>
@@ -131,7 +133,7 @@
             <p>PHILADELPHIA: PRINTED and SOLD BY ROBERT BELL, IN Third-Street, M, DCC, LXXXIV.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:018456_0003_0FA76D086AED9FC0"/>
+            <pb facs="unknown:018456_0003_0FA76D086AED9FC0"/>
             <p>TO SIR JOHN PRINGLE, BART. PHYSICIAN TO THEIR MAJESTIES; FELLOW OF THE ROYAL COLLEGES of PHYSICIANS AT LONDON AND EDINBURGH.</p>
             <p>AND OF THE ROYAL SOCIETIES OF LONDON AND PARIS, &amp;c. &amp;c.</p>
             <p>THIS WORK IS MOST RESPECTFULLY INSCRIBED,</p>
@@ -142,16 +144,16 @@ THE AUTHOR.</signed>
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:018456_0004_0FA76D0CB9C70018"/>
+            <pb facs="unknown:018456_0004_0FA76D0CB9C70018"/>
             <head>PREFACE.</head>
             <p>THE advantages of a publication of this kind to the practitioner in medicine, are 'tis preſumed, too obvious to need enumeration; I ſhall, therefore, only premiſe a few neceſſary obſervations relative to the work itſelf.</p>
             <p n="1">I. The doſes of medicines &amp;c. are ſet down as for adults; and therefore, the preſcriber will eaſily vary them for other ages. For example, children of two years old may, in general, take about a third part of the doſes for adults; or a little more; and ſo in proportion for other ages, the conſtitution being alſo conſidered.</p>
             <p n="2">II. Where it could conveniently be done, I have mentioned the intervals at which the medicines are to be repeated: but theſe may be varied at the preſcriber's diſcretion. For brevity's ſake I have in many places, uſed the word frequently; by which I would have it underſtood, that every three, four, ſix, eight, &amp;c. hours are meant, according to the exigency of the caſe.</p>
             <p n="3">
-               <pb n="vii" facs="tcp:018456_0005_0FA76D0DF33223E0"/>III. When any particular indication is to be anſwered, the claſſes, as cathartics, diuretics, aſtringents &amp;c. may be referred to; under which heads, as many of the compoſitions and ſimples as were judged neceſſary, are arranged.</p>
+               <pb n="vii" facs="unknown:018456_0005_0FA76D0DF33223E0"/>III. When any particular indication is to be anſwered, the claſſes, as cathartics, diuretics, aſtringents &amp;c. may be referred to; under which heads, as many of the compoſitions and ſimples as were judged neceſſary, are arranged.</p>
             <p n="4">IV. The limits aſſigned to the work would not admit of formulae; nor do I think them by any means neceſſary. The doſes of all the articles uſually adminiſtered are ſet down; and I will not ſuppoſe, that there is any medical practitioner, who cannot give directions for making them into draughts, boluſes, or other forms that may be required. The vehicles ſhould be either perfectly innocent, as pure water, ſimple ſyrup &amp;c. or of ſimilar virtues with the medicines to be given. And if two articles of the ſame virtues, cathartics for example, are employed, it ſcarce need be mentioned, that the doſe of each muſt be proportionably leſs. It may be added, that ingre<g ref="char:EOLhyphen"/>dients of a volatile nature ſhould be given in a liquid form, leſt their virtues exhale; very nau<g ref="char:EOLhyphen"/>ſeous ones ſhould, if convenient, be given in the form of pills or boluſes.</p>
             <p n="5">
-               <pb n="viii" facs="tcp:018456_0006_0FA76D0E8932DBC0"/>V. In the alphabet I have, for the moſt part, made uſe of Engliſh names; or at leaſt have referred from thoſe where technical terms are employed.</p>
+               <pb n="viii" facs="unknown:018456_0006_0FA76D0E8932DBC0"/>V. In the alphabet I have, for the moſt part, made uſe of Engliſh names; or at leaſt have referred from thoſe where technical terms are employed.</p>
             <p>This work was drawn up originally for my own uſe, and in the courſe of practice, I have found it very convenient to refer to occaſionally. It was the opinion of thoſe medical Gentlemen who ſaw the Manuſcript that it would be equally uſeful to others, and this was my motive for mak<g ref="char:EOLhyphen"/>ing it public.</p>
             <p>If this work aſſiſt the practitioner's memory in matters already known, at leaſt till he has leiſure to conſult larger works, where neceſſary, my deſign is anſwered.</p>
             <closer>
@@ -161,7 +163,7 @@ THE AUTHOR.</signed>
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:018456_0007_0FA76D0F4694B910"/>
+            <pb facs="unknown:018456_0007_0FA76D0F4694B910"/>
             <head>THE MEDICAL POCKET-BOOK; FOR THOSE WHO ARE, AND FOR ALL, WHO WISH, TO BE, PHYSICIANS.</head>
             <div type="part">
                <head>ABORTION.</head>
@@ -178,7 +180,7 @@ THE AUTHOR.</signed>
                <p>(Of acidity) Creta, magneſia, crabs eyes, coral, and all the teſtaceous powders; doſe one ſcruple, or half a drachm ſeveral times in a day. Alſo in like manner, ſal tart. or, abſinth. v. gr. ſal ammon. vol. v. gr. diluted.</p>
             </div>
             <div type="part">
-               <pb n="10" facs="tcp:018456_0008_0FA76D1000B9EDA8"/>
+               <pb n="10" facs="unknown:018456_0008_0FA76D1000B9EDA8"/>
                <head>AETHIOPS MINERAL.</head>
                <p>Alterative, vermifuge; doſe from one ſcruple to half a drachm. Twice a day.</p>
             </div>
@@ -215,7 +217,7 @@ THE AUTHOR.</signed>
                <p>See Dropſy.</p>
             </div>
             <div type="part">
-               <pb n="11" facs="tcp:018456_0009_0FA76D10C6A49790"/>
+               <pb n="11" facs="unknown:018456_0009_0FA76D10C6A49790"/>
                <head>ANEURISM. Or an enlargement of an Artery. (known by its pulſation.)</head>
                <p>TREATMENT. Bleeding, and proper evacuations; with low ſpare diet. Lead may be bound down pretty tight on the part. If theſe fail, recourſe muſt be had to the operation of tying it above and below the tumour.</p>
             </div>
@@ -245,7 +247,7 @@ THE AUTHOR.</signed>
                <p>Alterative from v. gr. to half a drachm. Twice a day.</p>
             </div>
             <div type="part">
-               <pb n="12" facs="tcp:018456_0010_0FA76D1187C5E9F8"/>
+               <pb n="12" facs="unknown:018456_0010_0FA76D1187C5E9F8"/>
                <head>ANTISPASMODICS.</head>
                <p>See Muſk and its Julep. Opiates, and the nervous medicines.</p>
             </div>
@@ -278,7 +280,7 @@ THE AUTHOR.</signed>
             <div type="part">
                <head>ASTHMA.</head>
                <p>SYMPTOMS. A difficulty of breathing, attended with wheezing; it returns at intervals; is preceded by diſinclination to motion,
-<pb n="13" facs="tcp:018456_0011_0FA76D1242E6D7F8"/>
+<pb n="13" facs="unknown:018456_0011_0FA76D1242E6D7F8"/>
 loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length the cheeks become red, the eyes prominent, and there is ſuch an anxiety and ſenſe of ſuffocation, that the patient can only breathe in an erect poſture, and can ſcarce ſpeak or expecto<g ref="char:EOLhyphen"/>rate. If he happen to ſleep he ſnores much; at the height of the fit is deſirous of cool free air; ſweats about the neck and fore<g ref="char:EOLhyphen"/>head; coughs up a little frothy matter with great difficulty; no fever, pulſe extremely ſmall and weak; urine pale and copious; as the fit abates, an expectoration of mucus; the urine becomes higher coloured, and depoſits a copious ſediment.</p>
                <p>TREATMENT. During the fit bleed, if age or weakneſs do not forbid; bliſter between the ſhoulders, or at the pit of the ſtomach; the body ſhould be opened with gentle cathartics; then give the pectorals and expectorants, joined, if neceſſary, with antiſpaſmodics and ſedatives.</p>
             </div>
@@ -296,7 +298,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <p>Alcalis (which ſee.) Chalybeates. See Flor. Mart. and Deobſtru<g ref="char:EOLhyphen"/>ents, Mercurials, ſee Calomel, &amp;c.</p>
             </div>
             <div type="part">
-               <pb n="14" facs="tcp:018456_0012_0FA76D15B511B950"/>
+               <pb n="14" facs="unknown:018456_0012_0FA76D15B511B950"/>
                <head>BALSAM of Capivi.</head>
                <p>Corroborant, diuretic, from x. drops to xxx.</p>
             </div>
@@ -349,7 +351,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <p>From iv. gr. to xv. as a pectoral and aſthmatic.</p>
             </div>
             <div type="part">
-               <pb n="15" facs="tcp:018456_0013_0FA76D1761522E90"/>
+               <pb n="15" facs="unknown:018456_0013_0FA76D1761522E90"/>
                <head>BITES and STINGS of venomous animals.</head>
                <p>TREATMENT. To thoſe of ſmall inſects, as gnats, bugs, waſps, &amp;c. apply ſpt. C. C. milk, oil, honey, or vinegar; to that of the viper, its own fat, ſpt. C. C. or ol. amygd. foment, poultice, and bleed, if inflammation require; and give milk inwardly, with theriaca, ſal C. C. or other antidote. For the rattleſnake's bite, give a ſpoonful or two of juice of plantain or horehound, and apply a tobacco leaf ſteeped in rum to the part.</p>
             </div>
@@ -381,7 +383,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <p>TREATMENT. As in the preceding caſe; ſmall doſes of vitr. vitid. calcin. are efficacious in this, and alſo in a rupture of a veſſel in the inteſtines, and a conſequent diſcharge of blood by ſtool.</p>
             </div>
             <div type="part">
-               <pb n="16" facs="tcp:018456_0014_0FA76D18F530A360"/>
+               <pb n="16" facs="unknown:018456_0014_0FA76D18F530A360"/>
                <head>BOILS.</head>
                <p>TREATMENT. They are to be ripened with proper poultices or cataplaſms; opened, digeſted with baſilicon, &amp;c. and healed with cerat. epulot. or the like. If fungous fleſh appear, take it down with red precipitate, or other proper eſcharotic. Altera<g ref="char:EOLhyphen"/>tives and edulcorants, with corroborants, if neceſſary, ſhould be given internally.</p>
             </div>
@@ -423,7 +425,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <p>In collyriums for inflamed eyes; and in ointment as a cicatrizer.</p>
             </div>
             <div type="part">
-               <pb n="17" facs="tcp:018456_0015_0FA76D1903A9A328"/>
+               <pb n="17" facs="unknown:018456_0015_0FA76D1903A9A328"/>
                <head>CALAMUS.</head>
                <p>Aromatic, from v. gr. to xv.</p>
             </div>
@@ -473,7 +475,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <p>Nervous, antiſpaſmodic, emmenagogue, from four gr. to a ſcruple.</p>
             </div>
             <div type="part">
-               <pb n="18" facs="tcp:018456_0016_0FA76D19CC3DD5B8"/>
+               <pb n="18" facs="unknown:018456_0016_0FA76D19CC3DD5B8"/>
                <head>CATARRH.</head>
                <p>See Cough.</p>
             </div>
@@ -523,7 +525,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <head>CHOLERA MORBUS.</head>
                <p>SYMPTOMS. Violent vomiting and looſeneſs, from bile abound<g ref="char:EOLhyphen"/>ing in the ſtomach and bowels; ſharp pains, gripings, and flatulency; thirſt, heat, anxiety, pulſe quick and unequal; cold ſweats, and at length ſyncope, and coldneſs in the extremi<g ref="char:EOLhyphen"/>ties. Chiefly attacks young perſons, and in the ſummer and autumn.</p>
                <p>
-                  <pb n="19" facs="tcp:018456_0017_0FA76D1A86F93B88"/>TREATMENT. Large and frequent draughts of chicken broth, to the quantity of a gallon or two; and clyſters of the ſame ſhould be continually injected. If the vomiting continue, give an in<g ref="char:EOLhyphen"/>fuſion of oat bread, toaſted brown, in water; afterwards cinna<g ref="char:EOLhyphen"/>mon water, conf. card. elect. e ſcord. or the like, with tinct. theb. An emetic may be proper, as alſo ripe fruit, &amp;c. See Colic bilious.</p>
+                  <pb n="19" facs="unknown:018456_0017_0FA76D1A86F93B88"/>TREATMENT. Large and frequent draughts of chicken broth, to the quantity of a gallon or two; and clyſters of the ſame ſhould be continually injected. If the vomiting continue, give an in<g ref="char:EOLhyphen"/>fuſion of oat bread, toaſted brown, in water; afterwards cinna<g ref="char:EOLhyphen"/>mon water, conf. card. elect. e ſcord. or the like, with tinct. theb. An emetic may be proper, as alſo ripe fruit, &amp;c. See Colic bilious.</p>
             </div>
             <div type="part">
                <head>CINNABAR of Antimony.</head>
@@ -550,7 +552,7 @@ loſs of appetite, oppreſſion, flatulency, and frequent eructations. At length
                <p>TREATMENT. Bleed, and give an emetic, with a large quantity of inf. flor. ch. or the like, to work it off; then give cathar<g ref="char:EOLhyphen"/>tics (pills chiefly, or ol. ricini) with opium, and opening em<g ref="char:EOLhyphen"/>ollient clyſters. If theſe fail, p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t the patient into the warm
-<pb n="20" facs="tcp:018456_0018_0FA76D1B428D07C8"/>
+<pb n="20" facs="unknown:018456_0018_0FA76D1B428D07C8"/>
 bath. If the vomiting continue, ſaline draughts with tinct. theb. Pills of half a gr. or a grain of crude opium are moſt powerful in removing pain and ſpaſm; and enable the cathar<g ref="char:EOLhyphen"/>tics to take the better effect.</p>
             </div>
             <div type="part">
@@ -566,7 +568,7 @@ bath. If the vomiting continue, ſaline draughts with tinct. theb. Pills of half
             <div type="part">
                <head>COLIC Nervous, called alſo the Devonſhire Colic, Colic of Poictiers, dry Gripes, and the dry Belly-ach.</head>
                <p>SYMPTOMS. Begins with a ſenſe of weight or pain at the pit of the ſtomach, attended with loſs of appetite, yellowiſhneſs in the countenance, a ſlight nauſea, and coſtiveneſs; a vomiting of acrid ſlime, and green bile ſucceed; the pain often deſcends to the navel, ſhooting from thence to each ſide, with great violence;
-<pb n="21" facs="tcp:018456_0019_0FA76D1C68F98468"/>
+<pb n="21" facs="unknown:018456_0019_0FA76D1C68F98468"/>
 the inteſtines ſeem drawn to the ſpint, with convulſive ſpaſms; the pain continues without remiſſion for ſeveral hours together; pulſe as in health; no fever, but rather lowneſs; when at length the pain abates, an odd tingling is felt along the ſpina dorſi, which extending to the legs and arms, they become weak and paralytic.</p>
                <p>TREATMENT. Vomit ſeveral times with warm chamomile tea, then give opium in pills or otherwiſe, as alſo by clyſter; the pain and tenſion being removed by theſe, give gentle cathar<g ref="char:EOLhyphen"/>tics, ſuch as ol. ricini, infuſ. ſen. with ſalts, and the like; laxative clyſters may alſo be preſcribed; bleed, if the pulſe be high; ſtool being procured, an anodyne, carminative, and anti<g ref="char:EOLhyphen"/>ſpaſmodic may be given, as camphire, valerian, caſtor, conf. card. or the like, with opium. If the pain return, have recourſe again to opium pills; if paralytic ſymptoms come on, embrocate the limbs and ſpine with lin. vol. camphorat. or other warm liniment. If convulſions, give muſk with opium. After the diſorder, bark, with bitters and rhubarb, ſhould be ordered; together with a light, but nutritive diet. Flannel may alſo be worn round the waiſt.</p>
                <p>Painters and glaziers, who are ſubject to this diſorder on account of the lead uſed in their work, rely on burnt gin, which I have ſeen them take with ſurpriſing ſucceſs.</p>
@@ -580,7 +582,7 @@ the inteſtines ſeem drawn to the ſpint, with convulſive ſpaſms; the pain c
                <head>COLIC Wind.</head>
                <p>SYMPTOMS. A wandering pain in the bowels, with rumblings, which abate on the expulſion of air; the pain is not increaſed by preſſure; thirſt not extraordinary; and the pulſe but little diſturbed.</p>
                <p>TREATMENT. Bleed if the patient can bear it; ſtools muſt be procured by ſaline or other cathartics, and emollient clyſters; previous to which, an emetic may alſo be given if judged neceſſary; and fomentations, or bladders of hot water may be applied to the belly; as may likewiſe anodyne, ſpirituous, and aromatic carbrocation, as balſ. anodyne, with ol. menth. or the
-<pb n="22" facs="tcp:018456_0020_0FA76D1CDFE2C7E0"/>
+<pb n="22" facs="unknown:018456_0020_0FA76D1CDFE2C7E0"/>
 like. A paſſage being procured, carminatives joined with opium may be adminiſtred; as philon. Lond. or the like.</p>
             </div>
             <div type="part">
@@ -623,7 +625,7 @@ like. A paſſage being procured, carminatives joined with opium may be adminiſ
                   </gap>tons; gum ammon. myrrh. or balſ. Peruv. with nitre, and elix. pareg. or pil. e ſtyrac. at night; decoct. cort. may be given twice a day with good effect. While tubercles are form<g ref="char:EOLhyphen"/>ing, with fever and inflammation, avoid heating medicines, and give cooling febrifuges; if little or no fever, chalybeates are very efficacious; in ſpitting of blood, bleed and give tinct. roſar. tinct. ſtyptic, or the like, and keep the body gently open. For ſweats, give elix. vitr. acid. or if that diſagree, the pearl julep; very gentle vomits of ipecacuanha may be given twice a week, if nothing forbid, to promote expectoration; change of air and gentle exerciſe are good; the diet ſhould be light, mild, and nutritive; as jellies, broths, milk, butter milk, &amp;c. Dr. Simmon's excellent treatiſe on this ſubject may be conſulted.</p>
             </div>
             <div type="part">
-               <pb n="23" facs="tcp:018456_0021_0FA76E57CABDC950"/>
+               <pb n="23" facs="unknown:018456_0021_0FA76E57CABDC950"/>
                <head>CONTRAYERVA.</head>
                <p>Alexipharmic, from v. gr. to a ſcruple.</p>
             </div>
@@ -659,7 +661,7 @@ like. A paſſage being procured, carminatives joined with opium may be adminiſ
                <p>TREATMENT. If inflammatory ſymptoms, or fever appear, bleed; give oxymel vomi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s, or rather ſmall doſes of ipecac. or tart. emet.
-<pb n="24" facs="tcp:018456_0022_0FA76E59D3B26778"/>
+<pb n="24" facs="unknown:018456_0022_0FA76E59D3B26778"/>
 to bring up the phlegm. Keep the body rather lax; and preſ<g ref="char:EOLhyphen"/>cribe tinct. fulig. or other antiſpaſmodic; gentle ſedatives of ſyr. e mecon. are efficacious; bliſters, gentle ſudorifics, and a ſpare, thin, but nouriſhing diet. Bark may be given, with caſtor, to ſupport the patient's ſtrength. But change of air, frequently repeated, ſometimes does wonders in theſe caſes.</p>
             </div>
             <div type="part">
@@ -700,7 +702,7 @@ to bring up the phlegm. Keep the body rather lax; and preſ<g ref="char:EOLhyphe
                <p>Abſorbent and aſtringent, ad libitum.</p>
             </div>
             <div type="part">
-               <pb n="25" facs="tcp:018456_0023_0FA76E5A02355E60"/>
+               <pb n="25" facs="unknown:018456_0023_0FA76E5A02355E60"/>
                <head>DELIVERY.</head>
                <p>See Child-Birth.</p>
             </div>
@@ -733,7 +735,7 @@ to bring up the phlegm. Keep the body rather lax; and preſ<g ref="char:EOLhyphe
                <head>DROPSY.</head>
                <p>SYMPTOMS. A collection of water or ſerum in ſome part of the body. Before the diſorder is perfectly formed it is called Cachexy; when the lymph is accumulated in the cellular membrane it is called Anaſarca, or Leacophlegmatia; when there is a collection of water in the abdomen, it is termed Aſcites; if in the brain, Hydrocephalus; if in the breaſt, Hydrops pectoris; if in the womb, Hydrop. Uteri; and if in the ſcrotum, Hydrocele.</p>
                <p>In common dropſies the legs uſually ſwell, and a dent or pit remains for ſome time after preſſing the fleſh with the finger: the
-<pb n="26" facs="tcp:018456_0024_0FA76E5C36554570"/>
+<pb n="26" facs="unknown:018456_0024_0FA76E5C36554570"/>
 appetite abates; the face either bloats or becomes thin and pale; little urine is made; thirſt, ſlow fever, ſhortneſs of breath, laſ<g ref="char:EOLhyphen"/>ſitude and heavineſs; theſe ſymptoms obtain eſpecially in the anaſarca and aſcites. In the hydrocephalus, convulſions, ſquint<g ref="char:EOLhyphen"/>ing, ſhunning the light, opening of the ſutures, and vomiting of bile, commonly attend, eſpecially if the diſeaſe be far advanced.</p>
                <p>TREATMENT In the Anaſarca and Aſcites, purges with Jalap, ſcammony, calomel, gamboge, elaterium, or the like, twice or thrice a week. Tinct. cupri, tinct. cantharid. ſal diuretic. or ſal abſinth. with bitter infuſion. Emetics and ſudorifics, bliſters and ſcarifications, preſcribed with due caution, have often good effect, otherwiſe, they may do harm. Bark may be given if the ſtrength flag, or conſumptive ſymptoms appear. Weak liquids of all kinds uſed to be avoided, but are now allowed freely with ſucceſs, eſpecially after the draſtic purges. In this complaint bread is generally ordered to be toaſted, and fleſh to be baked, roaſted, or broiled. Smoking is of great uſe, and muſtard ſeeds taken whole have often good effect.</p>
                <p>If the diſorder ariſeth from the too copious uſe of weak liquids, or obſtructed perſpiration, ſudorifics are much to be depended upon. If from drunkenneſs, riding on horſeback and the uſe of wine, or rather geneva diluted with water, in moderate quantity, will be uſeful. If from a conſumptive tendency, diuretics, joined with corroborants. If after great loſs of blood, or from tedious fevers, cathartics ſhould not be uſed too freely, but chalybeate bitters ſhould be chiefly relied on. In the Aſcites, tapping muſt be performed, if the methods above recommended fail.</p>
@@ -750,7 +752,7 @@ appetite abates; the face either bloats or becomes thin and pale; little urine i
                <head>DYSENTERY, or Bloody flux.</head>
                <p>SYMPTOMS. A diſcharge of mucus, blood, and purulent matter by ſtool; violent gripings; pain in the loins, and anus; teneſ<g ref="char:EOLhyphen"/>mus, and fever.</p>
                <p>TREATMENT. A rhubarb, or other gentle purge, and after pro<g ref="char:EOLhyphen"/>per
-<pb n="27" facs="tcp:018456_0025_0FA76E5C476AC9D8"/>
+<pb n="27" facs="unknown:018456_0025_0FA76E5C476AC9D8"/>
 evacuation, julep e cret. with ſpermaceti and an opiate. Bleed, if you find it neceſſary; and give ſtarch clyſters with opium and aſtringents; boluſſes of bees-wax and ſpermaceti, or balſ. locat. with electuary of ſcordium are efficacious. Small doſes (a grain or two) of ipecac. have often ſucceeded; as hath alſo vitrum antim. cerat. in doſes of five grains, with ſome opi<g ref="char:EOLhyphen"/>ate, occaſionally repeated. Sudorifics are ſometimes of uſe, by promoting a determination to the ſurface of the body. Emollient fomentations, and balſamic clyſters with opium, will beſt re<g ref="char:EOLhyphen"/>move the teneſmus.</p>
                <p>The diet as in the diarrhoea. Milk with mutton ſuet boiled in it, and the fat afterwards taken off, is eſteemed excellent.</p>
             </div>
@@ -809,7 +811,7 @@ evacuation, julep e cret. with ſpermaceti and an opiate. Bleed, if you find it 
             <div type="part">
                <head>EMETICS.</head>
                <p>Pulv. ipecac. from half a ſcruple to half a drachm. Vin. ipac. from one ounce to two. Tart. emet. from j. to iij. gr. Vin.
-<pb n="28" facs="tcp:018456_0026_0FA76E5D5937E308"/>
+<pb n="28" facs="unknown:018456_0026_0FA76E5D5937E308"/>
 antim. from ij. drachms to half an ounce. Vitriol. alb. from half a ſcruple to a ſcruple.</p>
             </div>
             <div type="part">
@@ -840,7 +842,7 @@ antim. from ij. drachms to half an ounce. Vitriol. alb. from half a ſcruple to 
                <p>See AEthiops.</p>
             </div>
             <div type="part">
-               <pb n="29" facs="tcp:018456_0027_0FA76E5DC4F4EBC0"/>
+               <pb n="29" facs="unknown:018456_0027_0FA76E5DC4F4EBC0"/>
                <head>EXTRACT of Bark.</head>
                <p>Corroborant, &amp;c. from v. gr. to j. ſcruple.</p>
             </div>
@@ -888,7 +890,7 @@ antim. from ij. drachms to half an ounce. Vitriol. alb. from half a ſcruple to 
                <head>EYES inflamed, or Ophthalmia.</head>
                <p>Inflammation of the outward coats of the eye, attended with prick<g ref="char:EOLhyphen"/>ing pain, heat, pulſation, redneſs, ſwelling, and ſcalding tears.</p>
                <p>TREATMENT. Bleed, purge, apply leeches to the temples, and bliſter the back or behind the ears; cooling febrifuges may al<g ref="char:EOLhyphen"/>ſo be given; direct collyriums, with vitr. alb. ſacch. ſaturn. or alum; or if aſtringents diſagree, warm milk, decoction of mallow leaves in milk or water, or other emollient fomentation; or poultice of milk and bread, and bathe the feet in warm water. If it ariſeth from mere weakneſs of the veſſels, aſtringent collyri<g ref="char:EOLhyphen"/>ums, or alum curd; and bark, or other tonics, may be given
-<pb n="30" facs="tcp:018456_0028_0FA76E5EA05B4F58"/>
+<pb n="30" facs="unknown:018456_0028_0FA76E5EA05B4F58"/>
 internally. If Nervous, join valerian, caſtor, or the like, with the bark. If Scorbutic, or other humours attend, perpetual bliſters or ſetons, with mercurial, or other proper alteratives. If Tubercles in the eye are the cauſe, anoint them with ung. caerul. and give ſmall doſes of calomel till they diſperſe.</p>
                <p>For watery Eyes, gentle cathartics and alteratives, and waſh them with brandy and water.</p>
                <p>For ſpecks in the eye, blew lap. cal. ſugar, os ſaepiae, tutty, white vitriol with ſugar, or the like, through a ſmall tube into the eye; or drop in ſolutions of white vitriol, ſacch. ſa<g ref="char:EOLhyphen"/>turn. &amp;c.</p>
@@ -919,7 +921,7 @@ internally. If Nervous, join valerian, caſtor, or the like, with the bark. If S
                <p>SYMPTOMS. Shivering, followed by heat, and quick pulſe; nauſea, anxiety, reſtleſſneſs, white and dry tongue, thirſt, and ſometimes pain in the head and back.</p>
                <p>TREATMENT. If there be fulneſs of veſſels, bleed; give proper laxatives, and if the ſtomach be foul, an emetic; ſaline febri<g ref="char:EOLhyphen"/>fuges, with small doſes of vin. antim. or tart. emetic. and if di<g ref="char:EOLhyphen"/>aphoreſis be wanted, add contrayerva. If delirious, bliſter, and give julep e camph. If colliquative ſweats, the dococt. cott. with or without elix. vitriol. If ſpaſm and catching of the tendons, with low pulſe, bliſter the arms and legs, and apply ſtimulating plaiſters to the feet, firſt bathing them with warm water. If hic<g ref="char:EOLhyphen"/>cups, jul. e moſch.</p>
                <p>
-                  <pb n="31" facs="tcp:018456_0029_0FA76E5F678AE4F0"/>While the pulſe is high, and inflammatory ſymptoms continue, the antiphlogiſtic treatment, cooling febrifuges, acids, and gentle aperients are proper. But care muſt be taken not bring the patient too low, elſe he will want ſtrength to carry him through the diſeaſe. Gentle opiates may be ordered at night occaſionally in caſe of reſtleſſneſs. If the pulſe ſink, he ſhould be ſupported with proper cordials. Coſtiveneſs ſhould be avoided, and even a purging ſhould be checked with caution, being generally either critical, or at leaſt ſalutary. The preſent and paſt ſymptoms compared, will beſt direct the treatment in fevers. Diluting acidulated liquids are proper; the food may be panada, gruels, puddings, and chicken broth, with bread, but no fleſh. Food or liquids particularly longed for ſhould be given. Care ſhould be taken to avoid too great heat and impure air.</p>
+                  <pb n="31" facs="unknown:018456_0029_0FA76E5F678AE4F0"/>While the pulſe is high, and inflammatory ſymptoms continue, the antiphlogiſtic treatment, cooling febrifuges, acids, and gentle aperients are proper. But care muſt be taken not bring the patient too low, elſe he will want ſtrength to carry him through the diſeaſe. Gentle opiates may be ordered at night occaſionally in caſe of reſtleſſneſs. If the pulſe ſink, he ſhould be ſupported with proper cordials. Coſtiveneſs ſhould be avoided, and even a purging ſhould be checked with caution, being generally either critical, or at leaſt ſalutary. The preſent and paſt ſymptoms compared, will beſt direct the treatment in fevers. Diluting acidulated liquids are proper; the food may be panada, gruels, puddings, and chicken broth, with bread, but no fleſh. Food or liquids particularly longed for ſhould be given. Care ſhould be taken to avoid too great heat and impure air.</p>
             </div>
             <div type="part">
                <head>FEVER Intermittent,</head>
@@ -940,7 +942,7 @@ internally. If Nervous, join valerian, caſtor, or the like, with the bark. If S
                <p>Are thoſe wherein the ſymptoms of inflammatory, nervous, putrid, and other fevers, are more or leſs blended together; and muſt therefore be treated according to their appearances.</p>
             </div>
             <div type="part">
-               <pb n="32" facs="tcp:018456_0030_0FA76E6006AE2CB0"/>
+               <pb n="32" facs="unknown:018456_0030_0FA76E6006AE2CB0"/>
                <head>FEVER puerperal.</head>
                <p>SYMPTOMS. Begins in two or three days after delivery, with the uſual febrile ſymptoms; and ariſeth from an inflammation of the omentum and inteſtines; pain in the fore part of the head, fluſhing in the face, ſhort breath, ſuppreſſion of the lochia.</p>
                <p>TREATMENT. In caſe of coſtiveneſs, emollient clyſters; and if neceſſary, gentle cathartics; then mild diaphoretics, as ſaline draughts with vin. antim. and proper diluents.</p>
@@ -955,7 +957,7 @@ internally. If Nervous, join valerian, caſtor, or the like, with the bark. If S
                <p>SYMPTOMS. The remittent fever differs from the continual and intermittent, in that after a certain number of hours it remits, or abates, but does not go off. It is alſo called the autumnal remit<g ref="char:EOLhyphen"/>ting Fever, the bilious Fever, the marſh Fever, and the camp Fever.</p>
                <p>Uſually comes on ſuddenly, with debility, lowneſs of ſpirits, chillineſs, and other febrile ſymptoms; the hands tremble; countenance pale or yellowiſh; ſkin dry, breathing difficult, and pulſe ſmall and quick; great nauſea ſucceeds. Vomiting of bile, and ſometimes diſcharge of it by ſtool; tongue becomes foul, delirium follows, moiſture on the face, and at length on the other parts, when the remiſſion follows. As the diſorder increaſes the remiſſions are leſs, and at length become ſcarcely perceptible; the mouth, teeth, and lips, covered with a black cruſt; tongue very dry and ſtiff, ſo that the patient's voice can hardly be heard.</p>
                <p>TREATMENT. Bleed not but with great precaution; an emetic is ſometimes proper; the body ſhould be opened if neceſſary;
-<pb n="33" facs="tcp:018456_0031_0FA76E60C6FBB070"/>
+<pb n="33" facs="unknown:018456_0031_0FA76E60C6FBB070"/>
 then give ſaline febrifuges, to bring on regular intermiſſions; this done, preſcribe the bark copiouſly, as directed for the ague.</p>
             </div>
             <div type="part">
@@ -972,7 +974,7 @@ then give ſaline febrifuges, to bring on regular intermiſſions; this done, pr
                <head>FEVER, ſlow or nervous.</head>
                <p>SYMPTOMS Shiverings, laſſitude, wearineſs, ſighing, pale deſpond<g ref="char:EOLhyphen"/>ing looks, great anxiety, depreſſion of ſpirits, pain and giddineſs of the head, white tongue (ſometimes red) with a yellow or browniſh liſt running along the middle of it, but no thirſt: nauſea, difficulty of breathing, pulſe weak, quick, and unequal; urine limpid and pale; pain and coldneſs in the back part of the head, drowſineſs. Theſe ſymptoms are all worſe towards night; if a delirium, not violent, but a muttering to themſelves; ſometimes miliary eruptions and ſweats appear, but ſeldom afford relief.</p>
                <p>TREATMENT. Gentle cordial diaphoretics; previous to which, an emetic, if nothing forbids. Coſtiveneſs ſhould be removed by gentle laxatives; bleeding ſhould be refrained from, unleſs urgent ſymptoms indicate; bliſters; if an intermiſſion appears, the bark; if convulſions, muſk with caſtor or other antiſpaſ<g ref="char:EOLhyphen"/>modics; if apthae, gargles, with tinct. myrrh, honey, tinct. roſar. decoct. cort. alum, or the like; and in caſe of much phlegm, oxymel ſcillit or ipecac. to bring it up. Care ſhould
-<pb n="34" facs="tcp:018456_0032_0FA76E6186E025A8"/>
+<pb n="34" facs="unknown:018456_0032_0FA76E6186E025A8"/>
 be taken after the fever, to reſtore the patient by proper nutritious diet, chalybeate waters, bark, &amp;c.</p>
             </div>
             <div type="part">
@@ -1019,7 +1021,7 @@ be taken after the fever, to reſtore the patient by proper nutritious diet, cha
                <head>FLUOR ALBUS.</head>
                <p>SYMPTOMS. A flux of thin matter from the vagina, of a tranſ<g ref="char:EOLhyphen"/>parent or white colour, ſometimes tinctured with yellow or green; ſometimes it is ſharp and corroding, with a foetid ſmell, eſpeci<g ref="char:EOLhyphen"/>ally when of long continuance.</p>
                <p>TREATMENT. An emetic will generally be proper at firſt; then give olibanum, balſ. copaiv. pulv. e ſuccin. bark or the like. In phlegmatic conſtitutions, chalybeates, alum, or white vitriol; the extract cicut. is often of great uſe; ſtrengthening plaiſters may be applied to the back and loins, aſtringent injection uſed, and
-<pb n="35" facs="tcp:018456_0033_0FA76E6655B6CEB0"/>
+<pb n="35" facs="unknown:018456_0033_0FA76E6655B6CEB0"/>
 a light, but ſtrengthening and nutritive diet, with little exerciſe.</p>
             </div>
             <div type="part">
@@ -1053,7 +1055,7 @@ a light, but ſtrengthening and nutritive diet, with little exerciſe.</p>
                <p>Cathartic, from v. gr. to a ſcruple.</p>
             </div>
             <div type="part">
-               <pb n="36" facs="tcp:018456_0034_0FA76E66CB072690"/>
+               <pb n="36" facs="unknown:018456_0034_0FA76E66CB072690"/>
                <head>GANGRENE.</head>
                <p>SYMPTOMS. In ſome caſes, when a part is violently inflamed, the inflammation and pain ſuddenly diſappear; the integuments turn pale, blue, livid, or blackiſh; the ſkin becomes flaccid and pitting, with bladders filled with yellow or reddiſh ichor; and this is termed Gangrene.</p>
                <p>TREATMENT. Scarify and foment the parts with fotus comm. and ſpt. vin. camph. apply poultices of oatmeal and beer, and give cordial medicines. with plenty of bark.</p>
@@ -1086,7 +1088,7 @@ a light, but ſtrengthening and nutritive diet, with little exerciſe.</p>
                <head>GOUT.</head>
                <p>SYMPTOMS. An acute pain in the joints, particularly of the feet. It is called regular when ſeated in the extremities, returns at ſtated periods, and gradually declines. Irregular, when the fits are uncertain and frequent, when the ſymptoms vary, and when the diſeaſe attacks the ſtomach, head, or other inter<g ref="char:EOLhyphen"/>nal parts; chiefly affects the membranes, tendons, and liga<g ref="char:EOLhyphen"/>ments; the pain like that of a diſlocated bone, with a ſenſation as if warm water was poured on the part, ſucceeded by chillineſs and ſlight fever: a breathing ſweat comes on at the end of the fit, and the part ſwells; the fit returns at intervals till the gouty matter is ſpent: the longer the intervals the more ſevere the fit, but the ſymptoms are too well known, to need further enumeration in a work of this nature.</p>
                <p>TREATMENT. Cordials are beſt during the fit; the body ſhould not be coſtive; opiates may be occaſionally given; the part ſhould be wrapt in flannel, and relaxing or other topical appli<g ref="char:EOLhyphen"/>cations,
-<pb n="37" facs="tcp:018456_0035_0FA76E6884C7ADB8"/>
+<pb n="37" facs="unknown:018456_0035_0FA76E6884C7ADB8"/>
 as the caſe may require; a temperate diet, exerciſe, friction, and the Bath waters; ſome have ventured to bliſter the part with ſucceſs.</p>
             </div>
             <div type="part">
@@ -1139,7 +1141,7 @@ as the caſe may require; a temperate diet, exerciſe, friction, and the Bath wa
                <p>See Piles.</p>
             </div>
             <div type="part">
-               <pb n="38" facs="tcp:018456_0036_0FA76E69C37C8C30"/>
+               <pb n="38" facs="unknown:018456_0036_0FA76E69C37C8C30"/>
                <head>HARTSHORN, Burnt.</head>
                <p>Aſtringent, abſorbent, from j. ſcruple to j. drachm. See Decoction, white.</p>
             </div>
@@ -1183,7 +1185,7 @@ as the caſe may require; a temperate diet, exerciſe, friction, and the Bath wa
                <p>See Liver.</p>
             </div>
             <div type="part">
-               <pb n="39" facs="tcp:018456_0037_0FA76E6A86783830"/>
+               <pb n="39" facs="unknown:018456_0037_0FA76E6A86783830"/>
                <head>HERNIA, or Rupture.</head>
                <p>TREATMENT. Return the inteſtines, if practicable, and confine it with a proper truſs; coſtiveneſs muſt be avoided, as muſt like<g ref="char:EOLhyphen"/>wiſe violent exerciſe, drunkenneſs, &amp;c.</p>
             </div>
@@ -1238,7 +1240,7 @@ as the caſe may require; a temperate diet, exerciſe, friction, and the Bath wa
             <div type="part">
                <head>HYDROPHOBIA.</head>
                <p>It is of more conſequence here to deſcribe the ſymptoms in the dog than thoſe of the patient. We may know the dog to be mad by
-<pb n="40" facs="tcp:018456_0038_0FA76E6B46CE62C8"/>
+<pb n="40" facs="unknown:018456_0038_0FA76E6B46CE62C8"/>
 his dull heavy look, endeavouring to hide himſelf; ſeldom or ever barking; angry and ſnarls at ſtrangers, but fawns on his owner; refuſes all food, droops, hangs down his ears and tail, and often lays down as if going to ſleep; this is the firſt ſtage.</p>
                <p>He now begins to breathe quick and heavy, ſhoots out his tongue, ſlavers, and froths at the mouth; looks half aſleep; flies ſud<g ref="char:EOLhyphen"/>denly at byſtanders; runs forward in a curve line; at length he knows not his owner, his eyes become thick and dim, and water runs from them; tongue of a lead colour; grows weak and faint; often falls down, then riſes; and attempts to fly at ſome<g ref="char:EOLhyphen"/>thing; grows mad and furious; the nearer to this ſtate, the more dangerous the bite.</p>
                <p>If the ſtate of the dog cannot be obtained, he may be known to have been mad, or the diſorder may be known to be this by the following effects, which will come on ſooner or later: The bitten part begins to be painful, wandering pains comes on gradually, with heavineſs and uneaſineſs; diſturbed ſleep, frightful dreams, ſtartings, ſpaſms, ſighing, anxiety, love of ſolitude, pains ſhoot from the bitten part up to the throat, with ſtraightneſs, ſenſation of choaking, and horror or dread at ſight of water or other liquids, which is a ſufficient characteriſtic of the diſeaſe.</p>
@@ -1249,7 +1251,7 @@ his dull heavy look, endeavouring to hide himſelf; ſeldom or ever barking; ang
                <head>HYPOCHONDRIASIS.</head>
                <p>SYMPTOMS are generally low ſpiritedneſs, (the diſorder being chiefly in the imagination) heavineſs, oppreſſion, and deſpon<g ref="char:EOLhyphen"/>dency: yet at times uncommon chearfulneſs and flow of ſpirits; timidity, anxiety, fear, dread of dying, ſhort cough, difficult breath, flatulency, pale urine, pains in the head, odd fancies, ſpaſms.</p>
                <p>TREATMENT. Bark, and other tonics; nervous antiſpaſmodics as caſtor, valerian, aſſafoetida, &amp;c. attenuants, as volatile ſalts and ſpirits; bitters and chalybeats if no fever; emetics, aperients,
-<pb n="41" facs="tcp:018456_0039_0FA76E6C09DD5848"/>
+<pb n="41" facs="unknown:018456_0039_0FA76E6C09DD5848"/>
 opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate waters, food light and eaſy of digeſtion, chearful company, and gentle exerciſe.</p>
             </div>
             <div type="part">
@@ -1269,7 +1271,7 @@ opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate w
                <p>TREATMENT. If the veſſels be very full, bleed; then vomit, purge, and give medicines with ſoap; to which may occaſionally be added, rhubarb, aloes, chalybeates or ſquills. Saline draughts if fever; opiates in caſe of pain; gentle emetics may be occa<g ref="char:EOLhyphen"/>ſionally repeated, and the body ſhould be kept open. Chaly<g ref="char:EOLhyphen"/>beate waters, or water or cyder with a red hot iron quenched in it, may be uſed as common drink; gentle exerciſe, air, and chearful company.</p>
             </div>
             <div type="part">
-               <pb n="42" facs="tcp:018456_0040_0FA76E6CD0AAE050"/>
+               <pb n="42" facs="unknown:018456_0040_0FA76E6CD0AAE050"/>
                <head>ILIAC PASSION.</head>
                <p>SYMPTOMS. Acute pains in the bowels, oppreſſion at the ſtomach, tenſion of the belly, vomiting of bile, and ſometimes of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1316,7 +1318,7 @@ opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate w
                <p>Pinch up the ſkin and fat with the thumb and forefinger, and divide them with a lancet ſo as to admit a pea; or you may apply a ſmall bliſter or cauſtic on the part. The peas which it is afterwards dreſſed with may be ſmeated with baſilicon or ung. ad veſic. if neceſſary; and dipped in blue vitriol water if fungus appear. The pea may be ſecured with adheſive plaiſter; if the iſſue inflame, dreſs with ung. alb. &amp;c. or bleed or purge.</p>
             </div>
             <div type="part">
-               <pb n="43" facs="tcp:018456_0041_0FA76E6D8616B740"/>
+               <pb n="43" facs="unknown:018456_0041_0FA76E6D8616B740"/>
                <head>ITCH.</head>
                <p>SYMPTOMS. An eruption in the form of ſmall pimples or puſtules, chiefly about the joints, wriſt, hams, the bend of the arms, the waiſt, and between the fingers; the pimples generally hard at firſt, afterwards watery, eſpecially if rubbed or otherwiſe in<g ref="char:EOLhyphen"/>flamed. An itching, which is greateſt when warm, or in bed; it is alſo infectious.</p>
                <p>TREATMENT. Anoint with ſulph. viv. and axung. caerul. or white precipitate and pomatum; hellebore, or ſal ammoniac may occaſionally be added; or waſh with a weak ſolution of merc. c<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1358,7 +1360,7 @@ opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate w
                      <desc>••</desc>
                   </gap>icle of the ſame ſide; frequent, but ſmall diſcharges of urine, which is red and high coloured, yet limpid and watery in the height of the diſeaſe.</p>
                <p>
-                  <pb n="44" facs="tcp:018456_0042_0FA76E6E47A7EA48"/>TREATMENT. Bleed; open the body with cathartics and clyſters; give emoilient diuretics, with plenty of emulſ. comm. or the like, for common drink; warm bathing; opiates may be ad<g ref="char:EOLhyphen"/>mitted in caſe of violent pain.</p>
+                  <pb n="44" facs="unknown:018456_0042_0FA76E6E47A7EA48"/>TREATMENT. Bleed; open the body with cathartics and clyſters; give emoilient diuretics, with plenty of emulſ. comm. or the like, for common drink; warm bathing; opiates may be ad<g ref="char:EOLhyphen"/>mitted in caſe of violent pain.</p>
                <p>If the pain abate, leaving behind a ſenſe of weight, with frequent ſhiverings, followed by heat, and whitiſh turbid urine, it denotes ſuppuration, balſ. capiv. with nitre, and rhubarb, or other bal<g ref="char:EOLhyphen"/>ſamic diuretics. The pain ſuddenly remitting, with cold ſweats, intermitting pulſe, hiccup, foetid urine, and ſuppreſſion of that diſcharge, are ſigns of mortification.</p>
             </div>
             <div type="part">
@@ -1403,7 +1405,7 @@ opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate w
                      <desc>•</desc>
                   </gap>a. Paſſion.</p>
                <p>
-                  <pb n="45" facs="tcp:018456_0043_0FA76E70F21FC980"/>LIME. See Water.</p>
+                  <pb n="45" facs="unknown:018456_0043_0FA76E70F21FC980"/>LIME. See Water.</p>
                <p>LINIMENT Arcoeus's. Digeſtive, incarnative.</p>
             </div>
             <div type="part">
@@ -1441,7 +1443,7 @@ opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate w
                <p>Aſtringent from two ounces to four. See Extract.</p>
             </div>
             <div type="part">
-               <pb n="46" facs="tcp:018456_0044_0FA76E7167D6F1B0"/>
+               <pb n="46" facs="unknown:018456_0044_0FA76E7167D6F1B0"/>
                <head>LOTION, Soap.</head>
                <p>For cutaneous deformities.</p>
             </div>
@@ -1471,7 +1473,7 @@ opiates, iſſues, and bliſters diſcretionally: the cold bath and chalybeate w
                <head>MEASLES.</head>
                <p>SYMPTOMS. Chillineſs, ſhivering, pain in the head, fever, ſickneſs, and ſometimes vomiting; cough, heavineſs, ſwelling and inflammation of the eyes, and diſcharge of water humour from them, and alſo from the noſtrils. The third or fourth day, an eruption like flea-bites appears in the face, neck, and breaſt, and ſoon after in the body and limbs; they riſe above the ſkin, but do not ſuppurate. The fever and other ſymptoms do not, as in the ſmall-Pox, &amp;c. abate on the appearance of the eruption, which continues about three days, then dries away, the ſkin peeling off; but the other ſymptoms remain and even increaſe, eſpecially the cough, which is alſo attended generally with dif<g ref="char:EOLhyphen"/>ficulty of breating, and oppreſſion at the breaſt.</p>
                <p>TREATMENT. Cooling and aperient febrifuges; gentle dia<g ref="char:EOLhyphen"/>phoretics, if neceſſary; bleeding, if nothing forbid; pectorals for the cough; opiates occaſionally at night; bliſter, if the cough
-<pb n="47" facs="tcp:018456_0045_0FA76E73A9995290"/>
+<pb n="47" facs="unknown:018456_0045_0FA76E73A9995290"/>
 be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given as ſoon as the eruption diſappears.</p>
                <p>It has been propoſed to inoculate the Meaſles, but Dr. Simmons, in his diſſertation de Rubeola, obſerves, that the different at<g ref="char:EOLhyphen"/>tempts in this way, hitherto have proved ineffectual; Dr. Home's experiments, as related in his Medical Facts, not having been found to anſwer when repeated by others.</p>
             </div>
@@ -1504,7 +1506,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>Alterative, Vermifuge from v. gr. to half a drachm, twice a day.</p>
             </div>
             <div type="part">
-               <pb n="48" facs="tcp:018456_0046_0FA76E7442DBCBD8"/>
+               <pb n="48" facs="unknown:018456_0046_0FA76E7442DBCBD8"/>
                <head>MERCURY Calcined.</head>
                <p>Alterative, antivenereal from half a gr. to ij. at night.</p>
             </div>
@@ -1570,7 +1572,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>See Fever.</p>
             </div>
             <div type="part">
-               <pb n="49" facs="tcp:018456_0047_0FA76E76495D7600"/>
+               <pb n="49" facs="unknown:018456_0047_0FA76E76495D7600"/>
                <head>NERVOUS Medicines.</head>
                <p>Pil. gum, from v. gr. to one ſcruple. Aſſafoetida, and the other gums in like doſes. See alſo Bark, the Chalybeates, Cephalics, Tonics, and antiſpaſmodics,</p>
             </div>
@@ -1612,7 +1614,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>OINTMENT White. Healing, ſoftening, cooling.</p>
                <p>OLIBANUM. Corroborant from v. gr. to a ſcruple.</p>
                <p>
-                  <pb n="50" facs="tcp:018456_0048_0FA76E778A8FEF08"/>OPIUM, Anodyne, antiſpaſmodic, &amp;c. from one fourth of a grain to ij. grains.</p>
+                  <pb n="50" facs="unknown:018456_0048_0FA76E778A8FEF08"/>OPIUM, Anodyne, antiſpaſmodic, &amp;c. from one fourth of a grain to ij. grains.</p>
                <p>OPOPONAX. Nervous, antiſpaſmodic, from v. gr. to xv.</p>
                <p>ORANGE Juice, As lemon, but weaker.</p>
                <p>— Peel, As lemon, but weaker.</p>
@@ -1646,7 +1648,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
             <div type="part">
                <head>PERIPNEUMONY, or Inflammation of the Lungs.</head>
                <p>SYMPTOMS. Difficult breathing, with oppreſſion and ſeeming load at the breaſt; the breath hot, cough, fever, redneſs in the face, pulſe ſometimes hardly perceptible, but after bleeding,
-<pb n="51" facs="tcp:018456_0049_0FA76E78115E7CC8"/>
+<pb n="51" facs="unknown:018456_0049_0FA76E78115E7CC8"/>
 ſtrong but unequal. Differs from a Pleuriſy in the cough being <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> pain leſs acute, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1686,7 +1688,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>See Conſumption.</p>
             </div>
             <div type="part">
-               <pb n="52" facs="tcp:018456_0050_0FA76E78C63BF280"/>
+               <pb n="52" facs="unknown:018456_0050_0FA76E78C63BF280"/>
                <head>PHYMOSIS and PARAPHYMOSIS.</head>
                <p>SYMPTOMS. The firſt is a cloſing of the prepuce over the glans penis, ſo as not to be drawn back; the laſt, a conſtriction of it behind the glans, ſo as not to be drawn forward over it.</p>
                <p>TREATMENT. Foment, poultice, bleed, and purge; vomit if neceſſary; and give cooling febrifuges. If theſe fail proper inciſions muſt be made.</p>
@@ -1728,7 +1730,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>Pectoral, anodyne from iv. gr. to j. ſcruple, at night.</p>
             </div>
             <div type="part">
-               <pb n="53" facs="tcp:018456_0051_0FA76E7982500E68"/>
+               <pb n="53" facs="unknown:018456_0051_0FA76E7982500E68"/>
                <head>PILL Squill.</head>
                <p>Aſthmatic, pectoral, diuretic from v. gr, to xij.</p>
             </div>
@@ -1752,7 +1754,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>PLAISTER Mucilage. Softening, and for corns.</p>
                <p>PLAISTER Red Lead. Drying, healing.</p>
                <p>
-                  <pb n="54" facs="tcp:018456_0052_0FA76E7A55BB08B8"/>PLAISTER Soap. Reſolvent.</p>
+                  <pb n="54" facs="unknown:018456_0052_0FA76E7A55BB08B8"/>PLAISTER Soap. Reſolvent.</p>
             </div>
             <div type="part">
                <head>PLEURISY.</head>
@@ -1801,7 +1803,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
                <p>Cooling and aſtringent, in collyriums for the eyes.</p>
             </div>
             <div type="part">
-               <pb n="55" facs="tcp:018456_0053_0FA76E7B020DB220"/>
+               <pb n="55" facs="unknown:018456_0053_0FA76E7B020DB220"/>
                <head>POWDER of Contrayerva compound.</head>
                <p>Sudorific from one ſcruple to a drachm.</p>
             </div>
@@ -1849,7 +1851,7 @@ be obſtinate; and bathe the feet in warm water. Gentle phyſic ſhould be given
             <div type="part">
                <head>PROCIDENTIA, vel PROLAPSUS ANI. or bearing down of the Rectum.</head>
                <p>TREATMENT. Corroborants, as bark, tinct. roſar. &amp;c. Laxa<g ref="char:EOLhyphen"/>tives, clyſters, and aperients, if coſtive: clyſters of tinct. roſar. or other bracers, and a proper bandage; chalybeates and cold bathing. N. B. if there be inflammation, emollient fomentations and poultices. The part ſhould be gently reduced, and kept
-<pb n="56" facs="tcp:018456_0054_0FA76E82E31CBD30"/>
+<pb n="56" facs="unknown:018456_0054_0FA76E82E31CBD30"/>
 up with a bandage; reſt and an horizontal poſture are proper. Prolapſus Uteri. TREATMENT as in the preceding caſe. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eſſa<g ref="char:EOLhyphen"/>ries are alſo proper to be worm.</p>
@@ -1896,7 +1898,7 @@ up with a bandage; reſt and an horizontal poſture are proper. Prolapſus Uteri
                <head>RHEUMATISM Acute.</head>
                <p>SYMPTOMS. Rigor, ſhivering, fever, thirſt, coſtiveneſs, wander<g ref="char:EOLhyphen"/>ing gnawing pains, with ſwelling and redneſs in the part affected, the pain worſe towards night and in bed.</p>
                <p>TREATMENT. Bleeding; Medicines with ſal c. c, nitre, cam<g ref="char:EOLhyphen"/>phire, guaicum, antimonials, or the like; laxatives, and opi<g ref="char:EOLhyphen"/>ates
-<pb n="57" facs="tcp:018456_0055_0FA76E844353B328"/>
+<pb n="57" facs="unknown:018456_0055_0FA76E844353B328"/>
 occaſionally. The part may be rubbed with lin. ſapon. camphire, and oil; lin. vol. &amp;c. Warm fomentations are good; the part may be covered with flannel, diluents ſhould be freely given, and a diaphoreſis kept up. When the urine depoſits a copious ſediment the bark may be given: it may be joined with ſome of the above, and opium may be occaſionally added.</p>
             </div>
             <div type="part">
@@ -1926,7 +1928,7 @@ occaſionally. The part may be rubbed with lin. ſapon. camphire, and oil; lin. 
                <head>RUE.</head>
                <p>In infuſion againſt fits and ſpaſmodic complaints; alſo alexi<g ref="char:EOLhyphen"/>pharmic and antipeſtilential; juice in clyſters, vermifuge.</p>
                <p>
-                  <pb n="58" facs="tcp:018456_0056_0FA76E84CD434F38"/>RUPTURES. See Hernia.</p>
+                  <pb n="58" facs="unknown:018456_0056_0FA76E84CD434F38"/>RUPTURES. See Hernia.</p>
                <p>SAFFRON. Cordial from iij. gr. to a ſcruple, or in infuſion.</p>
                <p>SAGAPENUM. Nervous, hyſteric, &amp;c, from v. gr. to a ſcruple, twice a day.</p>
                <p>SALT, alkaline fixed. (As ſal abſinth, ſal tartar &amp;c.) antacid, attenuant, diuretic, from iij. gr, to xv.</p>
@@ -1964,7 +1966,7 @@ occaſionally. The part may be rubbed with lin. ſapon. camphire, and oil; lin. 
                <p>TREATMENT. Endeavour to diſperſe it by mercurial unction, ext. cicutae, or mercurials, with ſarſaparilla, &amp;c. and occaſional purges. If it incline to ſuppurate, treat it as directed in abſ<g ref="char:EOLhyphen"/>ceſſes, &amp;c. If it neither diſperſe nor ſuppurate, extirpation is the only cure, where it can be done; otherwiſe treat it with coolers, and occaſional anodynes.</p>
             </div>
             <div type="part">
-               <pb n="59" facs="tcp:018456_0057_0FA76E858E55C8D8"/>
+               <pb n="59" facs="unknown:018456_0057_0FA76E858E55C8D8"/>
                <head>SCIATICA.</head>
                <p>SYMPTOMS. A fixed pain in the hip, like the rheumatiſm. Called alſo the Hip Gout and Iſchias.</p>
                <p>TREATMENT as in Lumbago.</p>
@@ -1995,7 +1997,7 @@ occaſionally. The part may be rubbed with lin. ſapon. camphire, and oil; lin. 
                <p>SENNA. Cathartic from j. drachm to iij. or in infuſion.</p>
             </div>
             <div type="part">
-               <pb n="60" facs="tcp:018456_0058_0FA76E8643D17E48"/>
+               <pb n="60" facs="unknown:018456_0058_0FA76E8643D17E48"/>
                <head>SETON, to make.</head>
                <p>Pinch up the ſkin and fat with the finger and thumb, and run a proper needle through it, armed with a ſkain of ſilk or thread ſmeared with digeſtive ointment; which muſt be ſhifted a little every day, ſo as to keep both orifices running.</p>
             </div>
@@ -2020,7 +2022,7 @@ occaſionally. The part may be rubbed with lin. ſapon. camphire, and oil; lin. 
                <p>SYMPTOMS. Chillineſs, ſhivering, heat, pain in the head and back, ſickneſs and pain at the ſtomach, and ſometimes vomit<g ref="char:EOLhyphen"/>ing; fever, coſtiveneſs, convulſive fits ſometimes in children, which is a good ſymptom. On the third or fourth day the eruption appears, like flea-bites, in the face, breaſt, arms, body, and feet ſucceſſively; pains and ſoreneſs in the throat. The eruption being compleated, the fever goes off or abates. The eruptions fill, or maturate like boils, and the ſkin between them is alſo red; the eye-lids, face, hands, and feet, ſwell ſucceſſively; the pocks from red, grow whitiſh and ſmooth in the body, and yellow and rough in the face, full of a white matter. About the ſeventh day from the eruption, (ſometimes the ninth) they dry, or turn as it is called, and ſcale off, leaving red marks, and ſometimes pits behind.</p>
                <p>TREATMENT. If the pulſe be full and ſtrong at the beginning, bleed; and if neceſſary, or the period be ſufficiently early, purge, and give an emetic. During the eruptive fever, cooling febrifuges, with laxatives, or clyſters occaſionally; but if the ſymptoms require it (as low pulſe, &amp;c.) gentle cordials and diaphoretics. After the eruption, little is generally required but a gentle anodyne at night, proper diluents, and if neceſſary, opening clyſters, &amp;c. If purging come on, check it with caution; if delirium or fever, apply bliſters; and if the pock ſink, give bark, with proper diaphoretics and cordials; eſpecially if malignant or putrid ſymptoms, or petechiae appear. Spt. vitrioli dulcis is alſo good in theſe caſes, as are ſinapiſms to the feet.</p>
                <p>In the confluent kind, all the ſymtoms are worſe than in the diſtinct. The eruption makes its appearance a day or two later, and does not come to its height till the eleventh or fourteenth day after; the fever alſo continues after the eruption appears, and a ſali<g ref="char:EOLhyphen"/>vation comes on, which muſt by no means be checked. The patient requires to be ſupported more in this caſe than in the other; care, however, muſt be taken in both kinds to avoid too much heat, or a heating regimen; and pure, and even cool
-<pb n="61" facs="tcp:018456_0059_0FA76E8750343D38"/>
+<pb n="61" facs="unknown:018456_0059_0FA76E8750343D38"/>
 air, where no objection appears, is ſalutary. If the puſtules are opened, and the matter let out, ſo much the better; eſpecially if danger of their ſinking or ſtriking in appear. Purging is eſteemed proper after this diſeaſe.</p>
                <p>To inoculate for the Small Pox, take a little matter from a puſtule, after the eruptive fever, on the point of a lancet, and inſert it in the arm (by making a ſmall puncture or two) between the true and ſcarf ſkin, which may afterwards be preſſed down with the ſlat ſide of the lancet. Three or four days afterwards the punctures appear inflamed; in about three days more the pre<g ref="char:EOLhyphen"/>curſory ſymptoms come on, and at length the eruption.</p>
                <p>Previous to the inoculation, a mercurial purge or two may be adminiſtered, if the patient is of a full or groſs habit; and he ſhould alſo be reſtrained to a milk and farinaceous or vegetable diet, avoiding eſpecially high ſeaſoned food. It is found beſt to keep him out of bed, and even now and then in the cold air. The ſymptoms are generally ſo favourable, that little aſſiſtance is required from medicine, except a few mercurial purges after the diſorder goes off.</p>
@@ -2057,7 +2059,7 @@ air, where no objection appears, is ſalutary. If the puſtules are opened, and 
                <p>Attenuant, cordial, ſudorific from x. drops to lx.</p>
             </div>
             <div type="part">
-               <pb n="62" facs="tcp:018456_0060_0FA76E880D2E9E58"/>
+               <pb n="62" facs="unknown:018456_0060_0FA76E880D2E9E58"/>
                <head>SPIRIT Minder<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rus's.</head>
@@ -2104,7 +2106,7 @@ air, where no objection appears, is ſalutary. If the puſtules are opened, and 
                <p>TREATMENT. Bleed, if no objection appear; draughts with ol. amygd. and large quantities of gum arabic, with manna and <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> added occaſionally. Pil. ſapon. good as an anodyne at
-<pb n="63" facs="tcp:018456_0061_0FA76E8BE3635F38"/>
+<pb n="63" facs="unknown:018456_0061_0FA76E8BE3635F38"/>
 night. As ſolvents, the lixiv. ſapon. from x. to xxx. or lx. drops in veal broth twice in a day. Soap, oyſter-ſhells, and lime-water are alſo good; and in ſome caſes, the ſal vol. c. c. or ſpt. ſal marin. Water impregnated with fixed air, has been found a ſolvent in ſome caſes; as hath alſo ſpt. nitr. dulcis, the fol. uvae urſi, the live millipedes, and decoction, or oil of Juniper. In violent fits of the diſorder, the ſemicupium is good; and clyſters with V<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ice turpentine, or ſpirit of turpentine, and opium. In nauſea and vomiting, the ſaline draughts, with tinct. theb. and care ſhould be taken to keep the body properly open with cathartics of the cooling ſaline kind, or rather with manna, ol. ricini. and inf. ſenae, or other mild purge. Emulſ. com. decoct. rad. alth. or the like, may be uſed freely as com<g ref="char:EOLhyphen"/>mon drink. (See alſo Colic.)</p>
@@ -2140,7 +2142,7 @@ night. As ſolvents, the lixiv. ſapon. from x. to xxx. or lx. drops in veal bro
                <p>SYRUP of white Poppies. Anodyne from j. drachm to half an ounce.</p>
             </div>
             <div type="part">
-               <pb n="64" facs="tcp:018456_0062_0FA76E8DA0C2B030"/>
+               <pb n="64" facs="unknown:018456_0062_0FA76E8DA0C2B030"/>
                <head>TABES DORSALIS.</head>
                <p>SYMPTOMS. A waſting of the whole body, attended with fever, but no ſpitting nor cough, by which it is known from a Phthyſis. A collection of matter in ſome part of the body is uſually the cauſe, but particularly attends the inflammation of a ſchirrous gland.</p>
                <p>TREATMENT. If it ariſe from a ſchirrous liver, ſoap, and mild chalybeates. If the ſchirrus, or abſceſs be external, open or extirpate. The bark is often proper in theſe caſes, as is alſo myrrh with nitre. The body muſt be kept properly open; but purgings ſhould be checked. Gentle exerciſe, wholeſome air, and proper mild diet, with the uſe of aſſes milk, and the like, are often of much ſervice.</p>
@@ -2172,7 +2174,7 @@ night. As ſolvents, the lixiv. ſapon. from x. to xxx. or lx. drops in veal bro
                <head>TESTICLES inflamed.</head>
                <p>TREATMENT. Bleed, purge and even vomit, if neceſſary, in order to cauſe revulſion. Warm emollient fomentations and poultices are uſually reccommended; but Dr. Simmons, in his ingenious practical treatiſe on the Gonorrhaea recommends cold applications to the part, as being much more efficacious.</p>
                <p>
-                  <pb n="65" facs="tcp:018456_0063_0FA76E8FF311DE28"/>Febrifuges and gentle diaphoretics, with an anodyne at night, are good. If matter form, open and let it out. The teſticles ſhould be ſuſpended, and the patient kept as much as poſſible in an horizontal poſture.</p>
+                  <pb n="65" facs="unknown:018456_0063_0FA76E8FF311DE28"/>Febrifuges and gentle diaphoretics, with an anodyne at night, are good. If matter form, open and let it out. The teſticles ſhould be ſuſpended, and the patient kept as much as poſſible in an horizontal poſture.</p>
             </div>
             <div type="part">
                <head>TETANUS.</head>
@@ -2199,7 +2201,7 @@ night. As ſolvents, the lixiv. ſapon. from x. to xxx. or lx. drops in veal bro
                <head>TIN Filings.</head>
                <p>Vermifuge from half a drachm to ij. drachms.</p>
                <p>
-                  <pb n="66" facs="tcp:018456_0064_0FA76E9001D55470"/>TIN pulverized. Ditto.</p>
+                  <pb n="66" facs="unknown:018456_0064_0FA76E9001D55470"/>TIN pulverized. Ditto.</p>
             </div>
             <div type="part">
                <head>TINCTURE of Antimony.</head>
@@ -2226,7 +2228,7 @@ night. As ſolvents, the lixiv. ſapon. from x. to xxx. or lx. drops in veal bro
                <p>TINCTURE of Flowers of Steel. Deobſtruent, corroborant, &amp;c. from x. drops to half a drachm.</p>
                <p>TINCTURE of Steel with ſpt. of Salt. Ditto, from v. drops to xx. drops.</p>
                <p>
-                  <pb n="67" facs="tcp:018456_0065_0FA76E90CCF34AD8"/>TINCTURE, Styptic, From j. drachm to half an ounce.</p>
+                  <pb n="67" facs="unknown:018456_0065_0FA76E90CCF34AD8"/>TINCTURE, Styptic, From j. drachm to half an ounce.</p>
                <p>TINCTURE, Thebaic. Anodyne, &amp;c. from v. grains to j. drachm.</p>
                <p>TINCTURE of Valerian. Nervous from j. drachm to half an ounce.</p>
                <p>TINCTURE of Valerian, volatile. From xx. drops to lx.</p>
@@ -2267,7 +2269,7 @@ night. As ſolvents, the lixiv. ſapon. from x. to xxx. or lx. drops in veal bro
             <div type="part">
                <head>TYMPANY.</head>
                <p>A collection of wind or air in the inteſtines, particularly the colon, by which they become violently diſtended. It ſometimes
-<pb n="68" facs="tcp:018456_0066_0FA76E918C7A65A0"/>
+<pb n="68" facs="unknown:018456_0066_0FA76E918C7A65A0"/>
 ariſes from checking a diarrhoea, or from the imprudent uſe of bark in intermittents.</p>
                <p>TREATMENT. If fever and full pulſe, bleed; keep the body open with gentle laxatives, joined with aromatics; but refrain from ſtrong purges, and from carminatives not joined with proper aperients. The belly ſhould be frequently rubbed, and ſwathed with flannel. Exerciſe is good; gentle corroborants, as flor. chamaem, with ſmall doſes of chalybeates joined with aromatics, are alſo very proper.</p>
             </div>
@@ -2290,7 +2292,7 @@ ariſes from checking a diarrhoea, or from the imprudent uſe of bark in intermi
                      <desc>••</desc>
                   </gap>ti<g ref="char:EOLhyphen"/>cles. ſee alſo Phymoſis.</p>
                <p>
-                  <pb n="69" facs="tcp:018456_0067_0FA76E925999DD10"/>When the diſorder is a Confirmed Lues, we ſhould either ſalivate, or at leaſt keep the blood for ſome time highly charged with mercury; for either of which purpoſes calomel, or merc. calci<g ref="char:EOLhyphen"/>nat. &amp;c. ſhould be given inwardly; and half a drachm or a drachm of ung. caerul. fort. rubbed every night into the thighs. In ſhort, the whole dependence muſt be on mercury for deſtroying the virulency, other remedies being only had recourſe to occa<g ref="char:EOLhyphen"/>ſionally, according to the ſymptoms that ariſe. Thus, inflam<g ref="char:EOLhyphen"/>matory ſymptoms are to be removed by bleeding, purging or other proper medicines; ulcers, abſceſſes, &amp;c. ſhould be treated as required in ſuch caſes; but the diſeaſe which is the cauſe of theſe ſhould be principally attended to, and when that is ſubdued by a proper mercurial courſe, the other ſymptoms will either diſappear, or may be removed by requiſite methods. A Gleet, for example, will ſometimes remain after the diſorder is cured; and muſt be treated with corroborants, and, if neceſſary, aſtrin<g ref="char:EOLhyphen"/>gent injections; the cold bath, and a ſtrengthening diet.</p>
+                  <pb n="69" facs="unknown:018456_0067_0FA76E925999DD10"/>When the diſorder is a Confirmed Lues, we ſhould either ſalivate, or at leaſt keep the blood for ſome time highly charged with mercury; for either of which purpoſes calomel, or merc. calci<g ref="char:EOLhyphen"/>nat. &amp;c. ſhould be given inwardly; and half a drachm or a drachm of ung. caerul. fort. rubbed every night into the thighs. In ſhort, the whole dependence muſt be on mercury for deſtroying the virulency, other remedies being only had recourſe to occa<g ref="char:EOLhyphen"/>ſionally, according to the ſymptoms that ariſe. Thus, inflam<g ref="char:EOLhyphen"/>matory ſymptoms are to be removed by bleeding, purging or other proper medicines; ulcers, abſceſſes, &amp;c. ſhould be treated as required in ſuch caſes; but the diſeaſe which is the cauſe of theſe ſhould be principally attended to, and when that is ſubdued by a proper mercurial courſe, the other ſymptoms will either diſappear, or may be removed by requiſite methods. A Gleet, for example, will ſometimes remain after the diſorder is cured; and muſt be treated with corroborants, and, if neceſſary, aſtrin<g ref="char:EOLhyphen"/>gent injections; the cold bath, and a ſtrengthening diet.</p>
             </div>
             <div type="part">
                <head>VERDIGRIS.</head>
@@ -2331,7 +2333,7 @@ ariſes from checking a diarrhoea, or from the imprudent uſe of bark in intermi
                <p>As ſalt of ſteel</p>
             </div>
             <div type="part">
-               <pb n="70" facs="tcp:018456_0068_0FA76E9327C8C0E0"/>
+               <pb n="70" facs="unknown:018456_0068_0FA76E9327C8C0E0"/>
                <head>VITRIOL, White.</head>
                <p>Emetic to j. ſcruple. Aſtringent from iij. grains to half a ſcruple. Externally cooling, aſtringent.</p>
             </div>
@@ -2356,7 +2358,7 @@ ariſes from checking a diarrhoea, or from the imprudent uſe of bark in intermi
                <p>The treatment may be ſimilar to that preſcribed for the Diabetes.</p>
             </div>
             <div type="part">
-               <pb n="71" facs="tcp:018456_0069_0FA76E93C3DA9668"/>
+               <pb n="71" facs="unknown:018456_0069_0FA76E93C3DA9668"/>
                <head>URINE, profuſe Diſcharge of, or Diabetes</head>
                <p>TREATMENT. As this complaint ariſes from a relaxed ſtate of the ſphincter of the bladder, it muſt be cured by proper corro<g ref="char:EOLhyphen"/>borant remedies, as bark, tinct. roſar. tinct. ſtypt. elix. vitriol, alum, bitters, and the like. Tinct. canthar. has been found efficacious, as hath alſo vitriol caerul. in doſes of half a grain, twice in a day. Exerciſe, and light, but ſtrengthening diet, are alſo proper.</p>
             </div>
@@ -2396,7 +2398,7 @@ ariſes from checking a diarrhoea, or from the imprudent uſe of bark in intermi
                <p>WATER, Tar. Alterative, deobſtruent, corroborant from iv. ounces to half a lb. twice a day.</p>
                <p>WATER Vitriolic, camphorated, Opthalmic.</p>
                <p>
-                  <pb n="72" facs="tcp:018456_0070_0FA76E94826766F8"/>WATER, Vitriol blue. Externally ſtyptic.</p>
+                  <pb n="72" facs="unknown:018456_0070_0FA76E94826766F8"/>WATER, Vitriol blue. Externally ſtyptic.</p>
             </div>
             <div type="part">
                <head>WAX.</head>
@@ -2462,7 +2464,7 @@ ariſes from checking a diarrhoea, or from the imprudent uſe of bark in intermi
             <div type="part">
                <head>WORMS.</head>
                <p>SYMPTOMS. Itching of the noſe and anus; hunger, with ravenous appetite; nauſea; and gnawing pain in the ſtomach or inteſtines; foetid breath; grinding of the teeth, and moaning
-<pb n="73" facs="tcp:018456_0071_0FA76E9667402820"/>
+<pb n="73" facs="unknown:018456_0071_0FA76E9667402820"/>
 in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes convulſive fits; paleneſs; waſting of the fleſh. But there are ſeveral kinds of worms. Itching about the anus, with teneſmus, are ſigns of aſcarides, or ſmall thread worms. Sudden gripings about the navel, denote the common round worms. Gnawing pains in the ſtomach, and voraciouſneſs, the maw worms. And a weight in the belly, like the rolling of a ball, the taeni, or tape worm,</p>
                <p>TREATMENT. Tin filings, with rhubarb, or other proper aperient; ſem. ſanton. calomel, aethiops, or other mercurials, every night; with a purge now and then. Indian pink roo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2486,7 +2488,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <p>If there be loſs of fleſh, defend the part from the air with proper, mild, vulnerary dreſſings, while nature ſupplies the loſs. In other reſpects (the ſuture excepted) proceed as above. If an artery or vein be wounded or divided, apply ſtyptics, ligatures, &amp;c. according to circumſtances. If a nerve be divided in part (as violent pain, convulſions, and delirium will indicate) divide it entirely; as muſt alſo be the caſe with a tendon or artery in like circumſtances. If there be fever, bleed, purge, and give cooling febrifuges; and if inflammation, apply emollient poultices and fomentations. If the patient is low and the wound does not go on kindly, bark, or other proper cordial and ſtrengthening medicines, with ſuitable diet, ſhould be preſcribed.</p>
             </div>
             <div type="table">
-               <pb n="74" facs="tcp:018456_0072_0FA76E9814D20460"/>
+               <pb n="74" facs="unknown:018456_0072_0FA76E9814D20460"/>
                <head>TABULA oſtendens, qua proportione ſimplicia medica<g ref="char:EOLhyphen"/>menta purgantia, narcotica, et mercurialia, in compoſitis, qui<g ref="char:EOLhyphen"/>bus occurrunt, continentur.</head>
                <p>
                   <table>
@@ -2570,7 +2572,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:018456_0073_0FA76E9890FD8C60"/>
+            <pb facs="unknown:018456_0073_0FA76E9890FD8C60"/>
             <head>New and Old, Medical, Surgical, and Chemical Works, lately imported, and now ſelling at BELL's BOOK-STORE, near St. Paul's Church in Third-Street, Philadelphia; With the loweſt Price printed to each Book.</head>
             <list>
                <item>1 ALEXANDER's Experimental Enquiry con<g ref="char:EOLhyphen"/>cerning the Cauſes which have been generally reported to produce Putrid Diſeaſes, two dollars.</item>
@@ -2605,7 +2607,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>28 Art of Healing by Surgeon Freke, dollar and a half.</item>
                <item>29 Aphoriſms of Sanctorius, with Keil's Medicina Statica, and Quincy's Medico-Phyſical Eſſays on—I. Agues. II. Fevers, III. An Elaſtic Fibre. IV. The Gout, V. The Leproſy, VI. Kings Evil. VII. The Venereal Diſeaſe, two dollars.</item>
                <item>
-                  <pb facs="tcp:018456_0074_0FA76E9A51B05200"/>30 Aphoriſms of Hippocrates in Greek and Latin, one dollar.</item>
+                  <pb facs="unknown:018456_0074_0FA76E9A51B05200"/>30 Aphoriſms of Hippocrates in Greek and Latin, one dollar.</item>
                <item>31 Anatomy of the Human Body, by Winſlow, 2 vols. four dol.</item>
                <item>32 Anatomy of Human Bodies, by Gibſon, dollar and a half.</item>
                <item>33 Anatomico — Practica, de Lienoſis, et Hiſtoriae Humani Sanguinis, per Boyle, &amp;c. &amp;c. one dollar.</item>
@@ -2636,7 +2638,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>55 Aphoriſms, per Boerhaave, one dollar.</item>
                <item>56 Inſtitutiones, per Boerhaave, one dollar.</item>
                <item>
-                  <pb facs="tcp:018456_0075_0FA76E9A82563888"/>57 Boyle on the Final Cauſes of Natural things, one dollar.</item>
+                  <pb facs="unknown:018456_0075_0FA76E9A82563888"/>57 Boyle on the Final Cauſes of Natural things, one dollar.</item>
                <item>58 Bickerton's Accurate Diſquiſitions in Phyſick, one dollar.</item>
                <item>59 Boerhaave's Elements of Chymiſtry, with Cuts and explana<g ref="char:EOLhyphen"/>tions; alſo uſeful Notes, by Strother, two dollars.</item>
                <item>60 Bate's Diſpenſatory, in Engliſh, by Salmon, two dollars.</item>
@@ -2664,7 +2666,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>82 Commentaria in Hermannii Boerhaave Aphoriſmos, de Cognoſcendis et Curandis Morbis, per Van Swieten, 4 vols. Quarto. twenty dollars.</item>
                <item>83 Caſe of Mademoiſelle de Maſcranny who ſues for a diſſolution of her Marriage with the Marquis de Geſvres on Account of Impotency, two dollars.</item>
                <item>
-                  <pb facs="tcp:018456_0076_0FA76E9CAB423030"/>84 Culpepper's Directory for Midwives, two dollars.</item>
+                  <pb facs="unknown:018456_0076_0FA76E9CAB423030"/>84 Culpepper's Directory for Midwives, two dollars.</item>
                <item>85 Culpepper's Engliſh Phyſician, Enlarged with 369 Medicines, two dollars.</item>
                <item>86 Cheyne on Curing the Diſeaſes of the Body, &amp; mind, two dol.</item>
                <item>87 Cheyne on the Gout, and on Bath-Waters, two dollars.</item>
@@ -2694,7 +2696,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>111 Dawſon's Account of a ſafe and efficacious Medicine for Diſeaſes in the Eyes and-Eye-Lids, half a dollar.</item>
                <item>112 Duncan De Laudibus Harveii, one third of a dollar</item>
                <item>
-                  <pb facs="tcp:018456_0077_0FA76E9DE1443C40"/>113 Diſeaſes of Children and their Remedies, from the Swediſh of Baron Roſen Von Roſenſtein, by Sparrman, three d.</item>
+                  <pb facs="unknown:018456_0077_0FA76E9DE1443C40"/>113 Diſeaſes of Children and their Remedies, from the Swediſh of Baron Roſen Von Roſenſtein, by Sparrman, three d.</item>
                <item>114 Diſeaſes of Infants and Children, one dollar.</item>
                <item>115 Douglas's Deſcription of the Muſcles, two dollars.</item>
                <item>116 Dialogues de la Sante, two thirds of a dollar.</item>
@@ -2719,7 +2721,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>135 The Experienced Engliſh Farrier, with the Nature and Vir<g ref="char:EOLhyphen"/>tues of Simples, two dollars.</item>
                <item>136 The Citizen and Countryman's Experienced Farrier, by Markham, Jefferies, Rational Quakers, and Diſcreet Indians, two dollars.</item>
                <item>
-                  <pb facs="tcp:018456_0078_0FA76E9E48B78970"/>137 Knowledge of the Horſe, and of Riding, by Aſtley, half a d.</item>
+                  <pb facs="unknown:018456_0078_0FA76E9E48B78970"/>137 Knowledge of the Horſe, and of Riding, by Aſtley, half a d.</item>
                <item>138 Gentleman's Complete Jockey, one dollar.</item>
                <item>139 Notable Things, concerning Horſes, and other Cattle, one d.</item>
                <item>140 Farriery, by Surgeon Bartlett, one dollar.</item>
@@ -2752,7 +2754,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>167 Houſton's Travels in Aſia, Africa, America and Europe, two d.<note place="bottom">A Continuation of this Catalogue will be publiſhed on Monday next.</note>
                </item>
                <item>
-                  <pb facs="tcp:018456_0079_0FA76E9F0BD1E4E8"/>183 Hales's Statical Experiments, on the Sap in Vegetables, Analyſis of the Air, with the Natural Hiſtory of Vegetation Volume the Firſt, two dollars.</item>
+                  <pb facs="unknown:018456_0079_0FA76E9F0BD1E4E8"/>183 Hales's Statical Experiments, on the Sap in Vegetables, Analyſis of the Air, with the Natural Hiſtory of Vegetation Volume the Firſt, two dollars.</item>
                <item>184 Hales on Ventilators for Mines, Jails, Ships, &amp;c. and for preſerving all ſorts of Grain from Weevels &amp;c. three d.</item>
                <item>185 Hydroſtatical Paradoxes, made out by Experiments by the Honourable Robert Boyle, one dollar.</item>
                <item>186 Hominis Brutique Animalis, Exortus, per Everard, one dollar.</item>
@@ -2776,7 +2778,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>202 King on Hot and Cold bathing, two dollars.</item>
                <item>203 Kirkpatrick's Sea-Piece, a Narrative, Philoſophic and Deſcriptive Poem, two dollars.</item>
                <item>
-                  <pb facs="tcp:018456_0080_0FA76E9FC495DBD0"/>204 LESLIE's Philoſophical Inquiry into the Cauſe of Animal Heat, with Incidental Obſervations, two dol.</item>
+                  <pb facs="unknown:018456_0080_0FA76E9FC495DBD0"/>204 LESLIE's Philoſophical Inquiry into the Cauſe of Animal Heat, with Incidental Obſervations, two dol.</item>
                <item>205 Lewis's New Diſpenſatory, three dollars.</item>
                <item>206 Lewis's Experimental Hiſtory of the Materia Medica, ſix dol.</item>
                <item>207 Lind on the Scurvy, two dollars.</item>
@@ -2810,7 +2812,7 @@ in ſleep; intermitting weak pulſe, and hectic fever; faintings, and ſometimes
                <item>233 Monro and others, on Weſt-India-Diſeaſes, three dollars.</item>
                <item>234 Monro on the Army Diſeaſes, three dollars.</item>
                <item>235 Medical Review of Foreign Works, containing an Account with Extracts of all the New Books publiſhed on Natural Hiſtory, Botany, Materia Medica, Chymiſ<g ref="char:EOLhyphen"/>try, Anatomy, Surgery, Midwifery, and the Practice
-<pb facs="tcp:018456_0081_0FA76EA084B0BEA0"/>
+<pb facs="unknown:018456_0081_0FA76EA084B0BEA0"/>
 of Phyſic, in every Part of the Continent of Europe; together with Intelligence of New and Intereſting Diſ<g ref="char:EOLhyphen"/>coveries to 1780, four dollars.</item>
                <item>236 Mead on the Diſeaſes mentioned in Scripture, dollar and half.</item>
                <item>237 Martyr's Memoirs of the Royal Academy at Paris, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2843,7 +2845,7 @@ of Phyſic, in every Part of the Continent of Europe; together with Intelligence
                <item>262 Obſervationes Medicae, per Tulpius, one dollar.</item>
                <item>263 De Occultis Naturae Miraculis, per Lemnius, one dollar.</item>
                <item>
-                  <pb facs="tcp:018456_0082_0FA76EA230586378"/>264 PHARMACOPOEIA Edinburgenſis, 1783, two dollars.</item>
+                  <pb facs="unknown:018456_0082_0FA76EA230586378"/>264 PHARMACOPOEIA Edinburgenſis, 1783, two dollars.</item>
                <item>265 Phyſical and Literary Eſſays, and Obſervations, Read before the Philoſophical Society in Edinburgh, 3 vols. nine d.</item>
                <item>266 Paxton's Directory for the Study and Practice of Phyſic, dollar and a half.</item>
                <item>267 Practical Phyſician for Travellers, by Sea and Land, d. &amp; h.</item>
@@ -2876,7 +2878,7 @@ of Phyſic, in every Part of the Continent of Europe; together with Intelligence
                <item>290 Read's Practice of Surgery, two dollars.</item>
                <item>291 Rutty's Methodical Synopſis of Mineral Waters, comprehend<g ref="char:EOLhyphen"/>ing the moſt celebrated Medicinal Waters, both cold and hot, eight dollars.</item>
                <item>
-                  <pb facs="tcp:018456_0083_0FA76EA34E690E70"/>292 SMELLIE's Midwifery, with 40 Plates and Expla<g ref="char:EOLhyphen"/>nations 3 vols. nine dollars.</item>
+                  <pb facs="unknown:018456_0083_0FA76EA34E690E70"/>292 SMELLIE's Midwifery, with 40 Plates and Expla<g ref="char:EOLhyphen"/>nations 3 vols. nine dollars.</item>
                <item>293 Smellies Midwifery, with 40 Plates and Explanations, 3 volumes ſix dollars.</item>
                <item>294 Smellie's Set of 40 Plates with Explanations, and an Abridg<g ref="char:EOLhyphen"/>ment of the Practice of Midwifery, two dollars.</item>
                <item>295 Smellie's Theſaurus Medicus; Being a Selection of the beſt Medical Theſeſes, that have been publiſhed at Edin<g ref="char:EOLhyphen"/>burgh, 2 vols. ſix dollars.</item>
@@ -2909,7 +2911,7 @@ of Phyſic, in every Part of the Continent of Europe; together with Intelligence
                <item>322 Tranſnatural Philoſophy, or Metaphyſicks; Demonſtrating the Eſſences and Operations of all Beings whatever, which gives the Principles to all other Sciences, by J. S. two d.</item>
                <item>323 Turner's Diſſertation on the Venereal Diſeaſe, two dollars.</item>
                <item>
-                  <pb facs="tcp:018456_0084_0FA76EA3CEED9C08"/>324 Turner's Ancient Phyſician's Legacy, two dollars.</item>
+                  <pb facs="unknown:018456_0084_0FA76EA3CEED9C08"/>324 Turner's Ancient Phyſician's Legacy, two dollars.</item>
                <item>325 Turner's Diſcourſe concerning Fevers, two dollars.</item>
                <item>326 Templeman's Remarks on Phyſics, Anatomy, Surgery, Chy<g ref="char:EOLhyphen"/>miſtry, Botany, and Medicine, two dollars.</item>
                <item>327 Towne on Diſeaſes in the Weſt-Indies, two dollars.</item>
@@ -2934,7 +2936,7 @@ of Phyſic, in every Part of the Continent of Europe; together with Intelligence
                <item>346 Warners Caſes in Surgery, with Operations &amp; Remarks, two dollars.</item>
                <item>347 Wiſeman's Surgical Treatiſe on Tumors, Ulcers, King's Evil, Wounds, Fractures, Luca Venerea &amp;c, 2 vols. four dollars</item>
                <item>
-                  <pb facs="tcp:018456_0085_0FA76EA57B6F6888"/>348 Wonders of Nature and Art, being an Account of whatever is moſt Curious and remarkable throughout the World, in Animals, Vegetables, Minerals, and Buildings, with Cuts, 4 vols. ſix dollars</item>
+                  <pb facs="unknown:018456_0085_0FA76EA57B6F6888"/>348 Wonders of Nature and Art, being an Account of whatever is moſt Curious and remarkable throughout the World, in Animals, Vegetables, Minerals, and Buildings, with Cuts, 4 vols. ſix dollars</item>
                <item>349 Waters of Hampſtead Wells, Directions for drinking of, one d.</item>
                <item>350 Warner's Deſcription of the Human Eye, dollar and a half.</item>
                <item>351 Warner's full and plain Account of the Gout, one dollar</item>
@@ -2961,7 +2963,7 @@ of Phyſic, in every Part of the Continent of Europe; together with Intelligence
                <item>370 Chambaud on the Art of ſpeaking French, two dollars.</item>
                <item>371 Chambaud's Fables in French, one dollar.</item>
                <item>
-                  <pb facs="tcp:018456_0086_0FA76EA5C35A8D10"/>372 Chambaud's Rudiments of the French, one dollar.</item>
+                  <pb facs="unknown:018456_0086_0FA76EA5C35A8D10"/>372 Chambaud's Rudiments of the French, one dollar.</item>
                <item>373 Cheſterfield's Miſcellaneous Works 3 vols. ſix dollars.</item>
                <item>374 Chapone's Letters on the Mind, one dollar.</item>
                <item>375 Chapone's Miſcellaneous Pieces, one dollar.</item>
